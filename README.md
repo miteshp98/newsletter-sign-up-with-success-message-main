@@ -34,6 +34,8 @@ Users should be able to:
 
 ### Screenshot
 
+![mobile](https://github.com/miteshp98/newsletter-sign-up-with-success-message-main/assets/145320555/72277795-d3ef-4812-a8b9-9b3eda596e67)
+
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
